@@ -1,0 +1,22 @@
+.card-shadow{
+    box-shadow: 2px 2px 8px rgba(0, 0, 0,0.3);
+}
+
+.bg-cover{
+	background-size: cover;
+	background-position: center center;
+}
+
+.bg-cover{
+	background-size: cover;
+	background-position: center center;
+}
+
+.bg-contain{
+	background-size: contain;
+	background-repeat: no-repeat;
+}
+
+.bg-gray {
+  background-color: #e3e3e7;
+}
